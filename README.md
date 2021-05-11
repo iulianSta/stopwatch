@@ -12,7 +12,7 @@ Create a nice layout with some SASS to make it look pretty.
 
 # Vanilla JavaScript Stopwatch App
 
-[**Stopwatch**](https://github.com/iulianSta/stopwatch.git)
+[**Stopwatch**](https://iuliansta.github.io/stopwatch/)
 
 ## Table of Contents
 

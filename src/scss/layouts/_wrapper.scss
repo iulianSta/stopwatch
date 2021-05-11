@@ -1,0 +1,12 @@
+// Mobile Devices view
+// Wrapper style
+.wrapper {
+  width: 80%;
+  @include flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  color: $w-col;
+  font-family: $g-font;
+  text-align: center;
+  text-transform: uppercase;
+}

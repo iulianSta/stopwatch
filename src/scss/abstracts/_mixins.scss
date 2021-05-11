@@ -1,0 +1,11 @@
+// Mixins
+
+// @mixin name {
+//   // your rules
+// }
+// Display flex
+@mixin flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
